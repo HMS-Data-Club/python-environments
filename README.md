@@ -25,7 +25,7 @@ You can [download PyCharm here](https://www.jetbrains.com/pycharm/download).
 Once PyCharm is installed, you can use it to open the file `scripts/ml-workflow.py`. 
 If PyCharm asks you to create a new project, select yes. 
 
-Once inside PyCharm, open up the terminal and select the `command prompt` option under the `∨` menu:
+Once inside PyCharm, open up the terminal. If you are on Windows, make sure to select the `command prompt` option under the `∨` menu:
 ![selecting the command prompt](figures/cmd_prompt.png)
 This is a unix terminal emulator built into PyCharm, which should allow everyone to have the same command line interface. 
 

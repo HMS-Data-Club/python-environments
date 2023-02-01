@@ -94,3 +94,7 @@ The dataset is taken from [this paper](https://academic.oup.com/nar/article/46/1
 python ml-workflow.py
 ```
 If everything worked, we should see some figures appear! 
+
+## Bonus Challenge
+
+If you were able to get everything else working, try installing and running the code from the following paper's git repository: [https://github.com/greenelab/wenda_gpu_paper](https://github.com/greenelab/wenda_gpu_paper).
